@@ -26,7 +26,7 @@ export const projectsData = [
   {
     id: 4,
     image: Work4,
-    title: "App movil",
+    title: "App",
     category: "app",
   },
   {
